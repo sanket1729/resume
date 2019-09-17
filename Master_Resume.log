@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=latex 2019.8.25)  8 SEP 2019 23:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=latex 2019.9.17)  17 SEP 2019 00:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **Master_Resume.tex
 (./Master_Resume.tex
 LaTeX2e <2017-04-15>
-Babel <3.18> and hyphenation patterns for 3 language(s) loaded.
+Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
 (./resume.cls
 Document Style `resume' <26 Sep 89, Dec 07>.
 Document Class: resume 2000/05/19 v1.4b Resume class
@@ -326,12 +326,12 @@ Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 130.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 130.
  ) 
 Here is how much of TeX's memory you used:
- 5483 strings out of 494924
- 79647 string characters out of 6180768
- 169905 words of memory out of 5000000
- 8783 multiletter control sequences out of 15000+600000
+ 5483 strings out of 492983
+ 79647 string characters out of 6134922
+ 174838 words of memory out of 5000000
+ 9033 multiletter control sequences out of 15000+600000
  7563 words of font info for 28 fonts, out of 8000000 for 9000
- 14 hyphenation exceptions out of 8191
+ 1141 hyphenation exceptions out of 8191
  29i,5n,31p,346b,321s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on Master_Resume.dvi (1 page, 9816 bytes).
